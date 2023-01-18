@@ -6,7 +6,7 @@
 -- 產生時間： 2023-01-18 01:51:34
 -- 伺服器版本： 10.4.27-MariaDB
 -- PHP 版本： 7.4.33
-
+-- 我是柏文
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
